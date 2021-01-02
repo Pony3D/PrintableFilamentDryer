@@ -14,7 +14,7 @@ Pulsando repetidas veces sobre + o -, selecionamos la temperatura y pulsando el 
 El elemento calefactable y el ventilador se encienden si la humedad no esta por debajo del 12%, en el momento que se excede la temperatura maxima grabada en la memoria el elemento calefactable se apaga, no el ventilador.
 En el momento que se alcanza un valor de humedad del 12% o inferior, el ventilador y el elemento calefactable se detienen y se muestra, en pantalla, el mensaje de "Secado OK, o DRY OK", y el filamento esta listo para imprimir.
 La potencia del elemento calefactable es baja, entorno 14W, por lo que el tiempo de secado del filamento puede ser entorno las 4 horas.
-Es recomendable tapar los agujeros exteriores de los tornillos para mantener la temperatura y humedad correcta del interior.
+Es recomendable tapar los agujeros exteriores con silicona caliente de los tornillos para mantener la temperatura y humedad correcta del interior.
 
 
 Componentes necesarios:
@@ -95,7 +95,7 @@ Pressing repeatedly on + or -, we select the temperature and pressing the S butt
 The heating element and the fan turn on if the humidity is not below 12%, when the maximum temperature recorded in the memory is exceeded, the heating element turns off, not the fan.
 As soon as a humidity value of 12% or less is reached, the fan and the heating element stop and the message "Drying OK, or DRY OK" is displayed on the screen, and the filament is ready to print. .
 The power of the heating element is low, around 14W, so the drying time of the filament can be around 4 hours.
-It is recommended to cover the outer screw holes to maintain the correct temperature and humidity inside.
+It is recommended to cover the outer holes with hot silicone of the screws to maintain the correct temperature and humidity inside.
 
 
 Required components:

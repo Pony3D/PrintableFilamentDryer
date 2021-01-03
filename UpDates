@@ -1,0 +1,9 @@
+# Ultimas modificaciones 03/01/2021
+
+- Añadido un menu para configurar la velocidad del ventilador, pudiendo elegir entre el 50% o el 100% de la velocidad. Se puede acceder a este menu manteniendo pulsado, alrededor de 1 segundo, el boton "S" desde la pantalla principal, una vez seleccionada la velocidad, se almacena nuevamente pulsando "S".
+- Se a corregido un defecto en el diseño del PCB, se a sustituido un BC337 por BC328 y eliminaod un condensador de 100nf a la salida de este. Este PCB este bajo el nombre de PCB_3.1.rar
+
+# Last UPDATES 03/01/2021
+
+- Added a menu to configure the fan speed, being able to choose between 50% or 100% of the speed. This menu can be accessed by pressing and holding the "S" button from the main screen for about 1 second. Once the speed is selected, it is stored again by pressing "S".
+- A defect in the PCB design has been corrected, a BC337 has been replaced by BC328 and a 100nf capacitor has been eliminated at its output. This PCB is under the name of PCB_3.1.rar

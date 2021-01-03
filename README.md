@@ -40,10 +40,11 @@ Componentes electronicos PCB 3:
 - Resistencia: 470 Ohms (x1)
 - Resistencia: 150 Ohms (x1)
 - Diodo: 14N007 (x3)
-- Transistor: BC337 (x2)
+- Transistor: BC337 (x1)
+- Transistor: BC328 (x1)
 - Mosfet: 7805 (x1)
 - Condensador ceramico: 100nf (x2)
-- Condensador polarizado: 100uf (x3)
+- Condensador polarizado: 100uf (x2)
 - Rele (tipico arduino) 5v 10A.
 
 Componentes electronicos Panel de Control:
@@ -120,10 +121,11 @@ Electronic components PCB 3:
 - Resistance: 470 Ohms (x1)
 - Resistance: 150 Ohms (x1)
 - Diode: 14N007 (x3)
-- Transistor: BC337 (x2)
+- Transistor: BC337 (x1)
+- Transistor: BC328 (x1)
 - Mosfet: 7805 (x1)
 - Ceramic capacitor: 100nf (x2)
-- Polarized capacitor: 100uf (x3)
+- Polarized capacitor: 100uf (x2)
 - Relay (typical arduino) 5v 10A.
 
 Electronic components Control Panel:
